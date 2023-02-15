@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Zapatillas mujer",
+    "price": "300",
+    "thumbnail": "sin imagen",
+    "description": "casuales",
+    "stock": "65",
+    "code": "123a",
+    "category": "mujer",
+    "id": 1
+  },
+  {
+    "title": "Botas mujer",
+    "price": "890",
+    "thumbnail": "sin imagen",
+    "description": "Borcego",
+    "stock": "22",
+    "code": "123b",
+    "category": "mujer",
+    "id": 2
+  },
+  {
+    "title": "Sandalias mujer",
+    "price": "350",
+    "thumbnail": "sin imagen",
+    "description": "verano 2024",
+    "stock": "33",
+    "code": "123c",
+    "category": "mujer",
+    "id": 3
+  }
+]
